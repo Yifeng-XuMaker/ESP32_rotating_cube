@@ -14,6 +14,6 @@
 
 5.使用自製或展板(json檔)
 
-![image](https://github.com/Yifeng-XuMaker/ESP32_rotating_cube/assets/128726368/7275588b-aa7c-42dd-9a15-3a5cde4ae9f4)
+
 
 
